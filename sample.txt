@@ -1,1 +1,2 @@
 This is the sample code for an developer to update an branch from git bash
+from git bash
