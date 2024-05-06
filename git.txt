@@ -1,0 +1,2 @@
+git pull from local repo to remote repo
+This is the sample code for an developer to update an branch from git bash
